@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project analyzes ecological interactions between hummingbirds and flowering plants using R.
+This project investigates ecological interaction networks between hummingbirds and flowering plants using field-collected data from Colombia.
+
+The analysis includes bipartite ecological networks, species specialization metrics, seasonal comparisons between rainy and dry periods, and the relationship between hummingbird beak length and flower corolla length using Spearman correlation.
+
+The project was developed as part of an undergraduate Biology research thesis.
 
 ## Tools
 
