@@ -44,7 +44,7 @@ The project was developed as part of an undergraduate Biology research thesis.
 - Species-level specialization metrics
 - Bipartite ecological network analysis
 
-- # Results
+# Results
 
 ### Total Interaction Network
 
