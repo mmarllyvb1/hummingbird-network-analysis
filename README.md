@@ -32,3 +32,10 @@ This project analyzes ecological interactions between hummingbirds and flowering
 - Compare interaction patterns between dry and rainy seasons.
 - Evaluate species specialization.
 - Assess the relationship between hummingbird beak length and flower corolla length.
+
+## Statistical Methods
+
+- Spearman correlation analysis
+- Network-level metrics
+- Species-level specialization metrics
+- Bipartite ecological network analysis
