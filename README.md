@@ -25,3 +25,10 @@ This project analyzes ecological interactions between hummingbirds and flowering
 - Statistical Analysis
 - Scientific Research
 - Research Communication
+
+## Research Objectives
+
+- Analyze hummingbird-plant interaction networks.
+- Compare interaction patterns between dry and rainy seasons.
+- Evaluate species specialization.
+- Assess the relationship between hummingbird beak length and flower corolla length.
