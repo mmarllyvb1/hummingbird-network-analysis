@@ -1,2 +1,27 @@
-# hummingbird-network-analysis
-Ecological network analysis of hummingbird-plant interactions using R
+# Ecological Network Analysis of Hummingbird–Plant Interactions
+
+## Overview
+
+This project analyzes ecological interactions between hummingbirds and flowering plants using R.
+
+## Tools
+
+- R
+- bipartite
+- vegan
+- dplyr
+- network
+
+## Methods
+
+- Ecological network analysis
+- Species specialization analysis
+- Spearman correlation
+- Data visualization
+
+## Skills
+
+- Data Analysis
+- Statistical Analysis
+- Scientific Research
+- Research Communication
