@@ -43,3 +43,21 @@ The project was developed as part of an undergraduate Biology research thesis.
 - Network-level metrics
 - Species-level specialization metrics
 - Bipartite ecological network analysis
+
+- # Results
+
+### Total Interaction Network
+
+![Total Network](figures/interaction_network_total.png)
+
+### Rainy Season Interaction Network
+
+![Rainy Network](figures/interaction_network_rainy.png)
+
+### Dry Season Interaction Network
+
+![Dry Network](figures/interaction_network_dry.png)
+
+### Beak–Corolla Correlation
+
+![Correlation](figures/beak_corolla_correlation.png)
